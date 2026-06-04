@@ -1,5 +1,5 @@
 build:
   id: 7777
   version: 8888.2.3
-  name: "New Dev DEV"
+  name: "New Dev DEV updated"
   type: "git New Dev Development build"
